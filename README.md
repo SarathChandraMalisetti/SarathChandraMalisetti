@@ -1,6 +1,24 @@
 # 💫 About Me:
- I’m currently working on  <br>- AI/ML projects like Resume Screener and Healthcare Prediction Systems  <br>- Building applications using Python, Streamlit, and NLP  <br><br> I’m looking to collaborate on  <br>- Machine Learning & AI-based projects  <br>- Open-source projects related to data analytics and automation  <br><br>I’m looking for help with  <br>- Advanced Deep Learning concepts  <br>- Deploying ML models to production (Cloud / APIs)  <br><br> I’m currently learning  <br>- Data Science & Machine Learning  <br>- Natural Language Processing (NLP)  <br>- Cloud technologies for ML deployment  <br><br> Ask me about  <br>- Python, Machine Learning, and Mini Projects  <br>- Resume building & project development
+ 🔭 I’m currently working on  
+- AI/ML projects like Resume Screener and Healthcare Prediction Systems  
+- Building applications using Python, Streamlit, and NLP  
 
+👯 I’m looking to collaborate on  
+- Machine Learning & AI-based projects  
+- Open-source projects related to data analytics and automation  
+
+🤝 I’m looking for help with  
+- Advanced Deep Learning concepts  
+- Deploying ML models to production (Cloud / APIs)  
+
+🌱 I’m currently learning  
+- Data Science & Machine Learning  
+- Natural Language Processing (NLP)  
+- Cloud technologies for ML deployment  
+
+💬 Ask me about  
+- Python, Machine Learning, and Mini Projects  
+- Resume building & project development
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarathmalisetti28@gmail.com ) 
